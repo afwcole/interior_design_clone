@@ -1,16 +1,24 @@
-# interior_design_clone
+# Interior Design UI Clone
 
-A new Flutter project.
+## An App Built From a Pinterest Design
 
-## Getting Started
+This a flutter implementation of a cool Interior Design APp Design I found on Pinterest.
+The design can be found on the link below... 
+https://www.pinterest.com/pin/830632725023467374/
 
-This project is a starting point for a Flutter application.
+This application includes...
+- a Homepage
+- a Product List Page
+amongst other UI files and elements.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo of the UI
+<img src="images/interior_design.gif" width="250">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie.  Android Studio, VSCode, IntelliJ, etc)
+* Knowledge of Dart and Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If this Repo is useful to you kindly give a star. thanks :)
+
+Coded by yours truly with Flutter.
