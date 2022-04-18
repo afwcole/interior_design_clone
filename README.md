@@ -2,7 +2,7 @@
 
 ## An App Built From a Pinterest Design
 
-This a flutter implementation of a cool Interior Design APp Design I found on Pinterest.
+This a flutter implementation of a cool Interior Design App Design I found on Pinterest.
 The design can be found on the link below... 
 https://www.pinterest.com/pin/830632725023467374/
 
